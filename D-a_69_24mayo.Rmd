@@ -99,3 +99,9 @@ factorIS(base2$Modelo)
 
 write.table(factorIS(base2$Modelo), file="Nombre2.txt", row.names = F)
 ```
+
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+library(knitr)
+purl("D-a_69_24mayo.Rmd", "main.r")
+```
+
