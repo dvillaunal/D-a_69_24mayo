@@ -1,0 +1,13 @@
+"Mes" "cantida"
+"April" 4
+"August" 3
+"December" 9
+"February" 3
+"January" 5
+"July" 3
+"June" 7
+"March" 6
+"May" 3
+"November" 2
+"October" 3
+"September" 2
